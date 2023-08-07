@@ -1,6 +1,5 @@
 import React from "react";
 import Menu from "./Menu";
-import img from "../../src/logo512.png";
 import ifrc from "../../src/IRFC.png";
 
 const Base = ({
